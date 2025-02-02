@@ -50,7 +50,7 @@ Database Screenshots.
 
 ## Acknowledgments
 ### Ankit kumar - Developer  
-#### Thankyou you for visiting my mini Banking Project!. 
+#### Thankyou you for visiting my ATM Interface Project!. 
 
 
    
