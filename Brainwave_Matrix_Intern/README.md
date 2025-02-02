@@ -1,4 +1,4 @@
-# Mini Banking System
+# ATM Interface
 A simple banking system created using Java Swing and MySQL database.
 Feature
 ## Feature
